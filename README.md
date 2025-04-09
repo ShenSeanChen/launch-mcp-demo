@@ -104,3 +104,69 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - National Weather Service (NWS) for their public API
 - The MCP framework developers
+
+## Claude Desktop Integration
+
+To integrate these tools with Claude Desktop, you'll need to set up a configuration file at:
+- macOS: `~/Library/Application Support/Claude/claude_desktop_config.json`
+- Windows: `%APPDATA%\Claude\claude_desktop_config.json`
+- Linux: `~/.config/Claude/claude_desktop_config.json`
+
+Here's an example configuration:
+
+```json
+{
+  "mcpServers": {
+    "weather": {
+      "command": "/path/to/your/python/environment",
+      "args": [
+        "--directory",
+        "/path/to/launch-mcp-demo/weather",
+        "run",
+        "weather.py"
+      ]
+    },
+    "files": {
+      "command": "/path/to/your/python/environment",
+      "args": [
+        "--directory",
+        "/path/to/launch-mcp-demo/files",
+        "run",
+        "files.py"
+      ]
+    }
+  }
+}
+```
+
+### Configuration Steps:
+
+1. Create the Claude configuration directory if it doesn't exist
+```bash
+# macOS
+mkdir -p ~/Library/Application\ Support/Claude
+
+# Windows (in Command Prompt)
+mkdir "%APPDATA%\Claude"
+
+# Linux
+mkdir -p ~/.config/Claude
+```
+
+2. Create the configuration file `claude_desktop_config.json` in the appropriate directory
+
+3. Update the paths in the configuration:
+   - Replace `/path/to/your/python/environment` with your Python interpreter path
+   - Replace `/path/to/launch-mcp-demo` with the absolute path to your cloned repository
+
+4. Verify the configuration:
+   - Restart Claude Desktop
+   - The MCP tools should now be available in your Claude conversations
+
+Note: You can find your Python interpreter path using:
+```bash
+which python  # On macOS/Linux
+where python  # On Windows
+```
+
+If you're using a virtual environment, make sure to use its Python interpreter path.

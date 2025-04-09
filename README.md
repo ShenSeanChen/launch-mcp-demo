@@ -2,7 +2,7 @@
 
 A collection of powerful command-line tools for file management, weather information, and WhatsApp chat analysis.
 
-📹 Full YouTube Guide: [Youtube link](https://www.youtube.com/watch?v=sfCBCyNyw7U)
+📹 Full YouTube Guide: [Youtube link](https://www.youtube.com/watch?v=sfCBCyNyw7U&list=PLE9hy4A7ZTmpGq7GHf5tgGFWh2277AeDR&index=10)
 
 🚀 X Post: [X link](https://x.com/ShenSeanChen/status/1910057838032097688)
 

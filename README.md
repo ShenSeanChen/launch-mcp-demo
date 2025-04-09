@@ -4,7 +4,7 @@ A collection of powerful command-line tools for file management, weather informa
 
 📹 Full YouTube Guide: [Youtube link](https://www.youtube.com/watch?v=sfCBCyNyw7U)
 
-🚀 X Post: [X link](https://x.com/ShenSeanChen/status/1895163913161109792)
+🚀 X Post: [X link](https://x.com/ShenSeanChen/status/1910057838032097688)
 
 ☕️ Buy me a coffee: [Cafe Latte](https://buy.stripe.com/5kA176bA895ggog4gh)
 

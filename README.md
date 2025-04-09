@@ -28,8 +28,8 @@ A collection of powerful command-line tools for file management, weather informa
 
 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/mcp-tools.git
-cd mcp-tools
+git clone https://github.com/ShenSeanChen/launch-mcp-demo.git
+cd launch-mcp-demo
 ```
 
 2. Create and activate a virtual environment (recommended)

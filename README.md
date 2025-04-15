@@ -1,6 +1,12 @@
 # MCP (Management Control Panel) Server Tools
 
-A collection of powerful tools for AI assistants integration - both Claude Desktop and Cursor IDE.
+A collection of powerful command-line tools for file management, weather information, and WhatsApp chat analysis.
+
+📹 Full YouTube Guide: [Youtube link](https://www.youtube.com/watch?v=sfCBCyNyw7U)
+
+🚀 X Post: [X link](https://x.com/ShenSeanChen/status/1910057838032097688)
+
+☕️ Buy me a coffee: [Cafe Latte](https://buy.stripe.com/5kA176bA895ggog4gh)
 
 ## Overview
 
@@ -298,6 +304,14 @@ Stay tuned for these demo videos, which will provide a comprehensive guide to le
 3. Commit your changes (`git commit -m 'Add some amazing feature'`)
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
+
+### Social Media & Connect
+
+- YouTube: [@SeanTechStories](https://youtube.com/@SeanTechStories)
+- Twitter/X: [@ShenSeanChen](https://twitter.com/ShenSeanChen)
+- LinkedIn: [in/shen-sean-chen](https://linkedin.com/in/shen-sean-chen)
+- Discord: [Join our community](https://discord.com/invite/TKKPzZheua)
+- GitHub: [@ShenSeanChen](https://github.com/ShenSeanChen)
 
 ### License
 

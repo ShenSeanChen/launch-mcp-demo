@@ -38,3 +38,6 @@ ENV/
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+# MCP
+.cursor/mcp.json
